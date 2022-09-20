@@ -38,6 +38,5 @@ let first_name = 'Obed', last_name = 'Badu', marital_tatus = "Single", country1 
 // Declaring two variables myAge and yourAge and assigning them initial values and log to the browser console.
 let myAge = 21;
 let yourAge = 35;
-
 console.log("I am " + myAge + " years old.");
 console.log("You are " + yourAge + " years old.");
