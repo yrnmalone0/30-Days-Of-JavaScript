@@ -14,7 +14,8 @@ This is a self-paced step-by-step approach in learning and practicing JavaScript
 |                     | math objects, and string concatenation     |
 | 03-Day_operators_&_boolean| I learned about boolean expression, 
 |                     | window methods, and date object |
-
+| 04-Day_Conditionals | Worked on conditional statements together with |
+|                     | prompt window method.         |
 
 
 
