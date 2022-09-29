@@ -89,14 +89,14 @@ function bmi(weight, height){
     let calBmi = weight / (height * height);
     // return calBmi;
     if (calBmi < 18.5){
-        console.log("You're underweight");
+        return confirm("You're underweight");
     }else if (calBmi >= 18.5 || calBmi <= 24.9){
-        console.log("You have a normal weight");
+        return confirm("You have a normal weight");
     }else if (calBmi >= 25 || calBmi <= 29.9){
-        console.log("You're overweight");
+        return confirm("You're overweight");
     }
     else{
-        console.log('You are obese');
+        return confirm('You are obese');
     }
 }
 console.log(bmi(98,3))
