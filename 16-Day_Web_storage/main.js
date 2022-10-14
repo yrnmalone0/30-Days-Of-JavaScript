@@ -16,3 +16,4 @@ const student = {
 }
 const newStudent = JSON.stringify(student)
 localStorage.setItem('student', newStudent)
+
